@@ -79,4 +79,6 @@ The labs reinforced best practice, supporting my role as a **Trainer – Data An
 ---
 
 ## 📸 Screenshots  
-_Add screenshots of your report pages, dashboard, and Power Query steps here._
+[Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiZjU4YTNmNTEtOGY4Ny00ODU5LWFhMDEtYzczMzEzNjgyMzk3IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
+<img width="1375" height="778" alt="image" src="https://github.com/user-attachments/assets/fe948fda-2811-440c-9b38-1979440a1aa7" />
