@@ -78,7 +78,19 @@ The labs reinforced best practice, supporting my role as a **Trainer – Data An
 
 ---
 
-## 📸 Screenshots  
+## 📸 Sales Report  
 [Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiZjU4YTNmNTEtOGY4Ny00ODU5LWFhMDEtYzczMzEzNjgyMzk3IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 <img width="1375" height="778" alt="image" src="https://github.com/user-attachments/assets/fe948fda-2811-440c-9b38-1979440a1aa7" />
+
+## 📸 AdventureWorks Report  
+[Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiYWI2OWNmOGQtZDdkNi00YWNmLWFlMGUtYjgzNzcyZjZhYjEzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
+<img width="1136" height="559" alt="image" src="https://github.com/user-attachments/assets/f38cd5ce-835c-4d32-b233-5541d83fa585" />
+
+<img width="1136" height="559" alt="image" src="https://github.com/user-attachments/assets/6b4f55b4-80fd-4d64-b067-ed6d900d128c" />
+
+<img width="1136" height="559" alt="image" src="https://github.com/user-attachments/assets/a2ef040f-0aa7-4e98-9139-44d000fc5ca4" />
+
+
+
